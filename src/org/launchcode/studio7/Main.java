@@ -6,6 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
         // TODO: Declare and initialize a CD and a DVD object.
+
         ArrayList<String> musicPlaylist = new ArrayList<String>();
         musicPlaylist.add(0,"You Say - Piano/VocalLauren Daigle");
         musicPlaylist.add(1,"Nothing's Gonna HappenThe Staves");
